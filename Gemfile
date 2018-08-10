@@ -9,6 +9,8 @@ gem 'rails', '~> 5.2.0'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem "font-awesome-rails"
+gem "stock_quote", '~> 2.0.0'
 gem 'jquery-rails'
 
 
